@@ -26,4 +26,3 @@ Scrape funda.nl:
 Open Chrome and open funda.nl then decide a repactcha and close the browser
 python3 main.py -u "funda.nl/.../..."
 Then Chrome will be opened.
-DON'T TOUCH THE COMPUTER AND BROWSER WHEN SCRAPER OF "funda.nl" IS WORKING.
