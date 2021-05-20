@@ -1,6 +1,5 @@
 
-++++Scraper funda.nl and domain.com.ua++++
-
+Scraper funda.nl and domain.com.ua
 
 Install script:
 1. Install Python 3.7+
